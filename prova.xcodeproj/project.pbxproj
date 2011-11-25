@@ -18,7 +18,6 @@
 		AC5FA228147FEF0E00E58876 /* prova.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AC5FA226147FEF0E00E58876 /* prova.xcdatamodeld */; };
 		AC5FA22B147FEF0E00E58876 /* MasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5FA22A147FEF0E00E58876 /* MasterViewController.m */; };
 		AC5FA22E147FEF0E00E58876 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5FA22D147FEF0E00E58876 /* DetailViewController.m */; };
-		AC5FA235147FEF7F00E58876 /* 185-printer.png in Resources */ = {isa = PBXBuildFile; fileRef = AC5FA234147FEF7F00E58876 /* 185-printer.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +38,6 @@
 		AC5FA22A147FEF0E00E58876 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
 		AC5FA22C147FEF0E00E58876 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		AC5FA22D147FEF0E00E58876 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
-		AC5FA234147FEF7F00E58876 /* 185-printer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "185-printer.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +86,6 @@
 		AC5FA217147FEF0E00E58876 /* prova */ = {
 			isa = PBXGroup;
 			children = (
-				AC5FA234147FEF7F00E58876 /* 185-printer.png */,
 				AC5FA220147FEF0E00E58876 /* AppDelegate.h */,
 				AC5FA221147FEF0E00E58876 /* AppDelegate.m */,
 				AC5FA223147FEF0E00E58876 /* MainStoryboard.storyboard */,
@@ -165,7 +162,6 @@
 			files = (
 				AC5FA21C147FEF0E00E58876 /* InfoPlist.strings in Resources */,
 				AC5FA225147FEF0E00E58876 /* MainStoryboard.storyboard in Resources */,
-				AC5FA235147FEF7F00E58876 /* 185-printer.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -294,6 +290,7 @@
 				AC5FA233147FEF0E00E58876 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
